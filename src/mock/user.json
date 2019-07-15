@@ -1,0 +1,64 @@
+{
+  "directory_profile": {
+    "pa_id": 34424571652,
+    "job_title": "test test test test test test1",
+    "biography": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+    "headline": "headline",
+    "work_history": [
+      {
+        "company_name": "Test Company",
+        "org_id": null,
+        "job_title": "Test Title",
+        "description": "Test description Test description Test description Test description Test description Test description Test description Test description Test description Test description Test description Test description Test description Test description Test description Test description Test description Test description Test description Test description Test description Test description Test description Test description Test description Test description Test description Test description Test description Test description Test description",
+        "start_date": "2019-06-30T21:00:00.000Z",
+        "end_date": null,
+        "is_current": true
+      }
+    ],
+    "education": [
+      {
+        "school_name": "school",
+        "institution_id": null,
+        "degree_name": "degree",
+        "degree_major": "Major",
+        "activities": "test test test",
+        "notes": "notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes",
+        "start_date": "2018-03-31T21:00:00.000+00:00",
+        "end_date": "2018-12-31T22:00:00.000+00:00",
+        "is_current": false
+      }
+    ],
+    "work_fax": "",
+    "work_phone": "123123123",
+    "cell_phone": "456456456",
+    "show_email": 1,
+    "show_cell_phone": 1,
+    "show_work_phone": 1,
+    "address": {
+      "address_line1": "adress1",
+      "address_line2": "adress2",
+      "city": "city",
+      "state": "state",
+      "zip_code": "12345",
+      "country": "country"
+    }
+  },
+  "messenger_profile": {
+    "rm_id": "RM1222772",
+    "primary_uuid": "GESG1-41643",
+    "secondary_uuids": [],
+    "email": "dariia.dovha@thomsonreuters.com",
+    "sip_uri": "dariia.dovha.thomsonreuters.com@reuters.net",
+    "company_name": "Refinitiv",
+    "ultimate_parent": "SL1-18RNYH9"
+  },
+  "euc_selections": {
+    "uuid": "GESG1-41643",
+    "primary_job_function": "FRUCJF:47",
+    "secondary_job_functions": [],
+    "primary_asset_class": "",
+    "secondary_asset_classes": [],
+    "primary_geographical_focus": "G:3U8",
+    "secondary_geographical_foci": []
+  }
+}

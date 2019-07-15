@@ -1,0 +1,430 @@
+[
+  {
+    "rcs_id": "FRUCAC:1",
+    "name": "Equities",
+    "parent_rcs_id": "M:1M0",
+    "level": 1,
+    "order": 1,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": [
+      "FRUCAC:2",
+      "FRUCAC:3",
+      "FRUCAC:7",
+      "FRUCAC:83",
+      "FRUCAC:84",
+      "FRUCAC:85",
+      "FRUCAC:6",
+      "FRUCAC:8"
+    ]
+  },
+  {
+    "rcs_id": "FRUCAC:86",
+    "name": "Fixed Income",
+    "parent_rcs_id": "M:1M0",
+    "level": 1,
+    "order": 2,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": [
+      "FRUCAC:27",
+      "FRUCAC:9"
+    ]
+  },
+  {
+    "rcs_id": "FRUCAC:39",
+    "name": "Foreign Exchange",
+    "parent_rcs_id": "M:1M0",
+    "level": 1,
+    "order": 3,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": [
+      "FRUCAC:45",
+      "FRUCAC:47",
+      "FRUCAC:41",
+      "FRUCAC:44"
+    ]
+  },
+  {
+    "rcs_id": "FRUCAC:48",
+    "name": "Money Markets",
+    "parent_rcs_id": "M:1M0",
+    "level": 1,
+    "order": 4,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": [
+      "FRUCAC:87",
+      "FRUCAC:88"
+    ]
+  },
+  {
+    "rcs_id": "FRUCAC:89",
+    "name": "Commodities",
+    "parent_rcs_id": "M:1M0",
+    "level": 1,
+    "order": 5,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": [
+      "FRUCAC:60",
+      "FRUCAC:66",
+      "FRUCAC:63",
+      "FRUCAC:64",
+      "FRUCAC:62",
+      "FRUCAC:65",
+      "FRUCAC:59",
+      "FRUCAC:90",
+      "FRUCAC:71",
+      "FRUCAC:68",
+      "FRUCAC:69",
+      "FRUCAC:70",
+      "FRUCAC:76",
+      "FRUCAC:78",
+      "FRUCAC:77",
+      "FRUCAC:58",
+      "FRUCAC:74",
+      "FRUCAC:75",
+      "FRUCAC:80",
+      "FRUCAC:81"
+    ]
+  },
+  {
+    "rcs_id": "FRUCAC:79",
+    "name": "Real Estate",
+    "parent_rcs_id": "M:1M0",
+    "level": 1,
+    "order": 6,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:91",
+    "name": "Multi-Asset",
+    "parent_rcs_id": "M:1M0",
+    "level": 1,
+    "order": 7,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:2",
+    "name": "Cash Equity",
+    "parent_rcs_id": "FRUCAC:1",
+    "level": 2,
+    "order": 1,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:60",
+    "name": "Crude Oil",
+    "parent_rcs_id": "FRUCAC:89",
+    "level": 2,
+    "order": 1,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:45",
+    "name": "FX Spot",
+    "parent_rcs_id": "FRUCAC:39",
+    "level": 2,
+    "order": 1,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:27",
+    "name": "Rates",
+    "parent_rcs_id": "FRUCAC:86",
+    "level": 2,
+    "order": 1,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:87",
+    "name": "Short Term Funding",
+    "parent_rcs_id": "FRUCAC:48",
+    "level": 2,
+    "order": 1,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:3",
+    "name": "Convertibles",
+    "parent_rcs_id": "FRUCAC:1",
+    "level": 2,
+    "order": 2,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:9",
+    "name": "Credit",
+    "parent_rcs_id": "FRUCAC:86",
+    "level": 2,
+    "order": 2,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:47",
+    "name": "FX Swaps",
+    "parent_rcs_id": "FRUCAC:39",
+    "level": 2,
+    "order": 2,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:66",
+    "name": "Refined Products",
+    "parent_rcs_id": "FRUCAC:89",
+    "level": 2,
+    "order": 2,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:88",
+    "name": "Short Term Interest Rates Derivatives",
+    "parent_rcs_id": "FRUCAC:48",
+    "level": 2,
+    "order": 2,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:7",
+    "name": "ETFs",
+    "parent_rcs_id": "FRUCAC:1",
+    "level": 2,
+    "order": 3,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:41",
+    "name": "FX Forwards \u0026 Futures",
+    "parent_rcs_id": "FRUCAC:39",
+    "level": 2,
+    "order": 3,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:63",
+    "name": "Natural Gas",
+    "parent_rcs_id": "FRUCAC:89",
+    "level": 2,
+    "order": 3,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:83",
+    "name": "Equity Futures",
+    "parent_rcs_id": "FRUCAC:1",
+    "level": 2,
+    "order": 4,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:44",
+    "name": "FX Options",
+    "parent_rcs_id": "FRUCAC:39",
+    "level": 2,
+    "order": 4,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:64",
+    "name": "Petrochemicals",
+    "parent_rcs_id": "FRUCAC:89",
+    "level": 2,
+    "order": 4,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:84",
+    "name": "Equity Options",
+    "parent_rcs_id": "FRUCAC:1",
+    "level": 2,
+    "order": 5,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:62",
+    "name": "LNG",
+    "parent_rcs_id": "FRUCAC:89",
+    "level": 2,
+    "order": 5,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:65",
+    "name": "Power",
+    "parent_rcs_id": "FRUCAC:89",
+    "level": 2,
+    "order": 6,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:85",
+    "name": "Warrants",
+    "parent_rcs_id": "FRUCAC:1",
+    "level": 2,
+    "order": 6,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:59",
+    "name": "Coal",
+    "parent_rcs_id": "FRUCAC:89",
+    "level": 2,
+    "order": 7,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:6",
+    "name": "Equity Structured Products",
+    "parent_rcs_id": "FRUCAC:1",
+    "level": 2,
+    "order": 7,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:90",
+    "name": "Carbon",
+    "parent_rcs_id": "FRUCAC:89",
+    "level": 2,
+    "order": 8,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:8",
+    "name": "Preferred Stock",
+    "parent_rcs_id": "FRUCAC:1",
+    "level": 2,
+    "order": 8,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:71",
+    "name": "Precious Metals",
+    "parent_rcs_id": "FRUCAC:89",
+    "level": 2,
+    "order": 9,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:68",
+    "name": "Base Metals",
+    "parent_rcs_id": "FRUCAC:89",
+    "level": 2,
+    "order": 10,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:69",
+    "name": "Iron \u0026 Steel",
+    "parent_rcs_id": "FRUCAC:89",
+    "level": 2,
+    "order": 11,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:70",
+    "name": "Minor Metals",
+    "parent_rcs_id": "FRUCAC:89",
+    "level": 2,
+    "order": 12,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:76",
+    "name": "Grains \u0026 Oilseeds",
+    "parent_rcs_id": "FRUCAC:89",
+    "level": 2,
+    "order": 13,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:78",
+    "name": "Softs",
+    "parent_rcs_id": "FRUCAC:89",
+    "level": 2,
+    "order": 14,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:77",
+    "name": "Livestock \u0026 Dairy",
+    "parent_rcs_id": "FRUCAC:89",
+    "level": 2,
+    "order": 15,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:58",
+    "name": "Biofuels",
+    "parent_rcs_id": "FRUCAC:89",
+    "level": 2,
+    "order": 16,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:74",
+    "name": "Fertilizers",
+    "parent_rcs_id": "FRUCAC:89",
+    "level": 2,
+    "order": 17,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:75",
+    "name": "Fibers \u0026 Forestry",
+    "parent_rcs_id": "FRUCAC:89",
+    "level": 2,
+    "order": 18,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:80",
+    "name": "Shipping",
+    "parent_rcs_id": "FRUCAC:89",
+    "level": 2,
+    "order": 19,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  },
+  {
+    "rcs_id": "FRUCAC:81",
+    "name": "Weather",
+    "parent_rcs_id": "FRUCAC:89",
+    "level": 2,
+    "order": 20,
+    "asset_class_rcs_ids": null,
+    "child_rcs_ids": []
+  }
+]
