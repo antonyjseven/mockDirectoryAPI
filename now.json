@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "name": "mock-directory-api",
+  "builds": [
+    { "src": "src/index.js", "use": "@now/node-server" }
+  ],
+  "routes": [
+    {
+      "src": "/api/auth/validate",
+      "dest": "src/index.js",
+      "methods": ["GET"]
+    },
+    {
+      "src": "/api/(.*)",
+      "dest": "src/index.js",
+      "methods": ["GET"]
+    },
+    {
+      "src": "/api/profiles",
+      "dest": "src/index.js",
+      "methods": ["POST"]
+    }
+  ]
+}
